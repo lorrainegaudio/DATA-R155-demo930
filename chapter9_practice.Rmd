@@ -1,0 +1,49 @@
+---
+title: "Chapter 9 Practice"
+output: html_notebook
+---
+
+
+
+
+## Load Data
+
+
+I am learning how to load data using a file path from the notebook. 
+
+```{r}
+# library first
+library(readr)
+```
+
+
+
+
+```{r}
+#Load data
+dplace_df <- read_csv("data/Values_Transport_dplace.csv")
+
+```
+
+## Explore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
